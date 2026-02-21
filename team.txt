@@ -5,5 +5,7 @@ Integrantes:
 2. Yocit
 3. Pendiente
 
+Versión: 2.0 - Versión michaell 
+
 Proyecto:
 Aplicación de perfiles del equipo
