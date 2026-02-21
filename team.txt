@@ -5,7 +5,7 @@ Integrantes:
 2. Yocit
 3. Pendiente
 
-Versión: 1.1 - Versión Juan
+Versión: 3.0 - Versión Yocit
 
 Proyecto:
 Aplicación de perfiles del equipo
